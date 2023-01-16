@@ -36,5 +36,7 @@
               "BjornVoesten\\CipherSweet\\CipherSweetServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
